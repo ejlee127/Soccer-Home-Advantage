@@ -15,7 +15,8 @@
 #### Audience impact on game
 
 * Average score and average attendance of each team - horizontal bar plots
-![img](images/Audience_impact/EPL_bar_avg_scores_att.png)
+[Premier League](images/Audience_impact/EPL_bar_avg_scores_att.png),
+[Bundesliga](images/Audience_impact/BUN_bar_avg_scores_att.png)
 
 * Goals of home/away and attendances - [scatter plots](images/Audience_impact/ALL_scatter_scores_att.png)
 
