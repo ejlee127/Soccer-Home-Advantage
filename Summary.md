@@ -1,4 +1,4 @@
-# project-one
+# Soccer Home Advantage
 
 ## Soccer - Is home team advantage real? 
 
@@ -7,26 +7,27 @@
 
 #### Weather impact on average goals
 
-
 * Average number of goals in temerature range (F) - bar plots
 
-    - for each league and for all
+![img](images/Weather_impact/all_leagues_weather_bin.png)
 
 
 #### Audience impact on game
 
 * Average score and average attendance of each team - horizontal bar plots
+![img](images/Audience_impact/EPL_bar_avg_scores_att.png)
 
-* Goals of home/away and attendances - sctter plots
+* Goals of home/away and attendances - [scatter plots](images/Audience_impact/ALL_scatter_scores_att.png)
 
-* Number of wins of home/away about attendances - bar plots
+* Number of wins of home/away about attendances - [bar plots](images/Audience_impact/ALL_bar_scores_att_bins.png)
 
 
 #### Game before/after COVID
 
 * Game results before COVID vs. after COVID - pie plots
+![img](images/Covid_impact/ALL1.png) ![img](images/Covid_impact/ALL2.png)
 
-* Goals per match before COVID vs. after COVID - bar plots
+* Goals per match before COVID vs. after COVID - [bar plots-before COVID](images/Covid_impact/ALL3.png), [bar plots-after COVID](images/Covid_impact/ALL4.png) 
 
 
 
